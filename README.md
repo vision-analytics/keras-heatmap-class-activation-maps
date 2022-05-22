@@ -36,10 +36,3 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
-
-
-### Tested with following environments
-
-Ubuntu 18.04 & python3.6
-
-macOS Mojave 10.14.5 & python 3.6
